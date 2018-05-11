@@ -1,2 +1,2 @@
 # TestingMySkills
-This Repo is to test mt coding skills.
+This Repo is to test my coding skills.
